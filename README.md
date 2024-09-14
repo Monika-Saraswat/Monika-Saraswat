@@ -22,7 +22,8 @@ I excel at creating high-performance web applications that blend robust function
 <h3 align="left">📬Connect with me:</h3>
 <table>
     <tr>
-  <td href="https://linkedin.com/in/monikasaraswat15" target="blank"
+      <td>
+  <a href="https://linkedin.com/in/monikasaraswat15" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -30,7 +31,8 @@ I excel at creating high-performance web applications that blend robust function
       height="30"
       width="40"
   /></td>
-  <td href="https://www.hackerrank.com/saraswatmonika55" target="blank"
+    <td>
+  <a href="https://www.hackerrank.com/saraswatmonika55" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
@@ -38,14 +40,17 @@ I excel at creating high-performance web applications that blend robust function
       height="30"
       width="40"
   /></a>
-  <td href="https://www.leetcode.com/monika1509" target="blank"
+  </a></td>
+    <td>
+  <a href="https://www.leetcode.com/monika1509" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
       alt="monika1509"
       height="30"
       width="40"
-  /></td>
+  /></a>
+      </td>
 </tr>
 </table>
 <br>
