@@ -14,7 +14,7 @@ I excel at creating high-performance web applications that blend robust function
 
 - 💼 I’m currently seeking opportunities as a **Software Developer**, **Frontend Developer** or **Backend Developer**.
   
-- <a style="text-decoration: none;">🔭 **Check out My Work**: [My Portfolio](https://monika-saraswat.github.io/portfolioWebsite/)</a>
+
   
 - 📫 **Reach Me at**: **saraswatmonika55@gmail.com**
  <br>
