@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Monika Saraswat</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
-<img align="right" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"/>
+<img align="right" width="400" src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775234_1280.png"/>
 
 <p align="left">
   <img
